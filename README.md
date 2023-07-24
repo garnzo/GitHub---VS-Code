@@ -20,3 +20,5 @@ Github uses a system called Branching, this is done by having one initial file t
 
 ### Imagine these types of tools didn't exist. How would developers track versions/changes and collaborate on projects? What problems might arise?
 
+Many problems would arise, Big Projects would be managed by hard drive, email and just sitting on some random computer, what if the hard drive corrupted, what if he went and no one had access to the file.
+If tools like Github didn't exist, Software development would be 10x harder and would be a pain fort Developers to manage changes and braches.
