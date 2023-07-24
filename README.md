@@ -8,7 +8,7 @@ this section is about my secret identity as The Dark Knight
 
 this section is about why im better than The Joker
 
-# **<u>Github Questions</u> ↓**
+# **Github Questions ↓**
 
 ### What is version control and why do you think this is important to software/web developers?
 
